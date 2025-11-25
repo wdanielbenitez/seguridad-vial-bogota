@@ -42,7 +42,7 @@ Fuente: Datos Abiertos Bogotá (Secretaría de Movilidad)
 ## Cómo Usar
 1. Abrir el archivo .pbix en Power BI Desktop.
 2. Usar los filtros de Localidad, Gravedad, Tipo día para segmentar el análisis.
-3. Navegar entre las tres páginas del informe (Visión General, Análisis Geoespacial, Análisis Victica) usando los botones superiores.
+3. Navegar entre las tres páginas del informe (Visión General, Análisis Geoespacial, Análisis Victima) usando los botones superiores.
 
 ## Vista Previa
 ![Dashboard](https://github.com/wdanielbenitez/seguridad-vial-bogota/blob/main/images/dashboard-vision-general.png)
